@@ -1,0 +1,4 @@
+Strategy,Targeted Audience,Audience Pct,Captured Converters,Captured Conv Pct,Effective Conv Rate,Total Revenue ($),Reward Subsidy ($),Saved Subsidy ($),Net Profit ($),ROI
+Mass Blast (Baseline - 100% Audience),15215,100.0%,6042,100.0%,39.71%,"$427,843.75","$32,823.00",$0.00,"$223,122.48",664.0%
+Targeted Top 30% (High Precision D1-D3),4565,30.0%,3617,59.9%,79.23%,"$244,745.93","$16,420.00","$16,403.00","$130,199.31",782.0%
+Targeted Top 50% (Balanced Reach D1-D5),7608,50.0%,5227,86.5%,68.70%,"$323,332.49","$25,255.00","$7,568.00","$168,364.09",657.0%
